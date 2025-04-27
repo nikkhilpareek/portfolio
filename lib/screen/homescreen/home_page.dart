@@ -63,7 +63,7 @@ class HomePage extends StatelessWidget {
                 children: [
                   /// Left side frosted Containers
                   // main mobile screen
-                  const SizedBox(width: 100,),
+                  const SizedBox(width: 50,),
                   SizedBox(
                     height: size.height - 100,
                     child: Consumer<CurrentState>(

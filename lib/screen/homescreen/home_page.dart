@@ -148,7 +148,7 @@ class HomePage extends StatelessWidget {
                   selector: (context, p1) => p1.currentDevice,
                   builder: (context, _, __) {
                     return Row(
-                      mainAxisAlignment: MainAxisAlignment.end,
+                      mainAxisAlignment: MainAxisAlignment.center,
                       children: [
                         ...List.generate(devices.length, (index) {
                           return Padding(

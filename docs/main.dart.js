@@ -37303,9 +37303,9 @@ q[9]=j*n+i*o
 q[10]=h*n+g*o
 q[11]=f*n+e*o
 e=t.E
-e=A.iN(A.a([A.KS(B.xB,A.cs(c,A.m0(A.a([A.et("I'm Nikhil Pareek",c,c,A.alk().$3$color$fontSize$fontWeight(B.qT,64,B.aO))],e),B.Q,B.a3,B.a4),B.p,c,c,c,c,c,B.Ew,c,c,c,c),c,p,!0),B.Oa,new A.JW(new A.ZA(),A.et("Flutter Developer",c,c,A.alk().$3$color$fontSize$fontWeight(B.i,48,B.cZ)),c),B.Ob,A.et("Welcome to my Portfolio! Made in Flutter.",c,c,A.alk().$3$color$fontSize$fontWeight(B.i,20,B.R)),B.Oc,B.O8],e),B.Q,B.a3,B.a4)
+e=A.iN(A.a([A.KS(B.xB,A.cs(c,A.m0(A.a([A.et("I'm Nikhil Pareek",c,c,A.alk().$3$color$fontSize$fontWeight(B.qT,64,B.aO))],e),B.Q,B.a3,B.a4),B.p,c,c,c,c,c,B.Ew,c,c,c,c),c,p,!0),B.Oa,new A.JW(new A.ZA(),A.et("Flutter Developer",c,c,A.alk().$3$color$fontSize$fontWeight(B.i,48,B.cZ)),c),B.Ob,A.et("Welcome to my Portfolio! Made in Flutter.",c,c,A.alk().$3$color$fontSize$fontWeight(B.i,20,B.R)),B.Oc,B.O7],e),B.Q,B.a3,B.a4)
 q=e}p=t.E
-q=A.m0(A.a([B.O7,r,B.O9,q],p),B.Q,B.a3,B.a4)
+q=A.m0(A.a([B.O9,r,B.O8,q],p),B.Q,B.a3,B.a4)
 d=b.c
 return A.Jh(c,A.Kk(B.dK,A.a([a1,s,A.iN(A.a([B.wA,q,A.ky(c,10*d,c),A.ajX(new A.ZB(a0),new A.ZC(),a,t.yW)],p),B.Q,B.eI,B.a4)],p),B.f8))}}
 A.Zw.prototype={
@@ -76893,11 +76893,11 @@ B.O2=new A.N(390,844)
 B.O4=new A.N(852,1865)
 B.O5=new A.N(873,1771)
 B.iH=new A.ec(0,0,null,null)
-B.O7=new A.ec(100,null,null,null)
 B.wy=new A.ec(10,null,null,null)
 B.wz=new A.ec(15,null,null,null)
-B.O8=new A.ec(16,null,null,null)
-B.O9=new A.ec(30,null,null,null)
+B.O7=new A.ec(16,null,null,null)
+B.O8=new A.ec(30,null,null,null)
+B.O9=new A.ec(50,null,null,null)
 B.wA=new A.ec(null,10,null,null)
 B.Oa=new A.ec(null,16,null,null)
 B.dy=new A.ec(null,20,null,null)
